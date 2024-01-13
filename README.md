@@ -1,14 +1,8 @@
-# 基于SSM的在线音乐管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ：**音乐1** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 基于SSM的在线音乐管理系统1
 
 ## 1、项目介绍
 
-基于SSM的在线音乐管理系统1音乐录制角色
+基于SSM的在线音乐管理系统1
 
 管理员：用户管理、新闻管理、类型管理、音乐管理、评价管理、留言管理等
 
@@ -35,47 +29,44 @@
 
 ### 4.1 登录
 
-![管理员登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101449279.jpg)
+![管理员登录](https://www.codeshop.fun/Typora-Images/202208101449279.jpg)
 
 ### 4.2前端 模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101450620.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202208101450620.jpg)
 
-![音乐详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101450590.jpg)
+![音乐详情](https://www.codeshop.fun/Typora-Images/202208101450590.jpg)
 
-![留言板](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101450633.jpg)
+![留言板](https://www.codeshop.fun/Typora-Images/202208101450633.jpg)
 
 ### 4.3 用户模块
 
-![用户-播放音乐](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101450769.jpg)
+![用户-播放音乐](https://www.codeshop.fun/Typora-Images/202208101450769.jpg)
 
-![用户-收藏](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101450623.jpg)
+![用户-收藏](https://www.codeshop.fun/Typora-Images/202208101450623.jpg)
 
-![用户-反馈意见](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101450928.jpg)
+![用户-反馈意见](https://www.codeshop.fun/Typora-Images/202208101450928.jpg)
 
 ### 4.4 管理员模块
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101450437.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202208101450437.jpg)
 
-![管理员-新闻公告管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101450968.jpg)
+![管理员-新闻公告管理](https://www.codeshop.fun/Typora-Images/202208101450968.jpg)
 
-![管理员-音乐类型管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101450723.jpg)
+![管理员-音乐类型管理](https://www.codeshop.fun/Typora-Images/202208101450723.jpg)
 
-![管理员-音乐管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101450703.jpg)
+![管理员-音乐管理](https://www.codeshop.fun/Typora-Images/202208101450703.jpg)
 
-![管理员-增加音乐](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101450952.jpg)
+![管理员-增加音乐](https://www.codeshop.fun/Typora-Images/202208101450952.jpg)
 
-![管理员-评价管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101450523.jpg)
+![管理员-评价管理](https://www.codeshop.fun/Typora-Images/202208101450523.jpg)
 
-![管理员-反馈管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101450867.jpg)
+![管理员-反馈管理](https://www.codeshop.fun/Typora-Images/202208101450867.jpg)
 
-![管理员-留言管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101450084.jpg)
+![管理员-留言管理](https://www.codeshop.fun/Typora-Images/202208101450084.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复关键词  ： **音乐1**，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**音乐**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
